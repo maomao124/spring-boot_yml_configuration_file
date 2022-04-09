@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mao.springboot_yml_configuration_file.SpringBootYmlConfigurationFileApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.329 s - in mao.springboot_yml_configuration_file.SpringBootYmlConfigurationFileApplicationTests
