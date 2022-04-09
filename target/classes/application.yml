@@ -1,0 +1,27 @@
+server:
+  port: 8083
+
+#subject:
+#  - Java
+#  - 前端
+#  - 大数据
+#
+#users: #对象数组格式
+#  - name: Tom
+#  age: 4
+#  - name: Jerry
+#  age: 5
+
+#users: #对象数组格式二
+#  -
+#  name: Tom
+#  age: 4
+#  -
+#  name: Jerry
+#  age:3
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    password: root
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
